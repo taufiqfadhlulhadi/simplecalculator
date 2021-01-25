@@ -1,0 +1,12 @@
+D:\Visual Studio Project\levelingform\levelingform\bin\Debug\levelingform.exe.config
+D:\Visual Studio Project\levelingform\levelingform\bin\Debug\levelingform.exe
+D:\Visual Studio Project\levelingform\levelingform\bin\Debug\levelingform.pdb
+D:\Visual Studio Project\levelingform\levelingform\obj\Debug\levelingform.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\levelingform\levelingform\obj\Debug\levelingform.Form1.resources
+D:\Visual Studio Project\levelingform\levelingform\obj\Debug\levelingform.Properties.Resources.resources
+D:\Visual Studio Project\levelingform\levelingform\obj\Debug\levelingform.csproj.GenerateResource.Cache
+D:\Visual Studio Project\levelingform\levelingform\obj\Debug\levelingform.exe
+D:\Visual Studio Project\levelingform\levelingform\obj\Debug\levelingform.pdb
+D:\Visual-Studio-Project\levelingform\levelingform\bin\Debug\levelingform.exe.config
+D:\Visual-Studio-Project\levelingform\levelingform\obj\Debug\levelingform.exe
+D:\Visual-Studio-Project\levelingform\levelingform\obj\Debug\levelingform.pdb
